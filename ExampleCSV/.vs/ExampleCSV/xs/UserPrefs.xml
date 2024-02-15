@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{534C4333-1E40-4D08-BF12-BB3FA1B31D2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExampleCSV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSVMenager.cs">
+    <Files>
+      <File FileName="Wyswietlanie.cs" Line="128" Column="9" />
+      <File FileName="CSVMenagerHelpers.cs" />
+      <File FileName="MenuNauczyciela.cs" Line="30" Column="61" />
+      <File FileName="Program.cs" Line="107" Column="1" />
+      <File FileName="MenuStudenta.cs" Line="16" Column="46" />
+      <File FileName="Uwagi.cs" Line="1" Column="1" />
+      <File FileName="UkrywanieHasla.cs" Line="1" Column="1" />
+      <File FileName="Student.cs" Line="1" Column="1" />
+      <File FileName="Przerwy.cs" Line="1" Column="1" />
+      <File FileName="CSVMenager.cs" Line="204" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleCSV" expanded="True">
+            <Node name="ExampleCSV" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

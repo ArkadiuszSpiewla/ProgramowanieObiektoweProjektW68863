@@ -1,0 +1,53 @@
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.exe
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.deps.json
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.runtimeconfig.json
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.dll
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.pdb
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/CsvHelper.dll
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.AssemblyReference.cache
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfoInputs.cache
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfo.cs
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CoreCompileInputs.cache
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CopyComplete
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.dll
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/refint/ExampleCSV.dll
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.pdb
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.genruntimeconfig.cache
+C:/Users/Arek/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ref/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/refint/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.pdb
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.AssemblyReference.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfoInputs.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfo.cs
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CoreCompileInputs.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.deps.json
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.runtimeconfig.json
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/ExampleCSV.pdb
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/CsvHelper.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/bin/Debug/net7.0/System.Linq.Async.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CopyComplete
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ExampleCSV.genruntimeconfig.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test/ExampleCSV/obj/Debug/net7.0/ref/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/ExampleCSV
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/ExampleCSV.deps.json
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/ExampleCSV.runtimeconfig.json
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/ExampleCSV.pdb
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/CsvHelper.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/bin/Debug/net7.0/System.Linq.Async.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.AssemblyReference.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfoInputs.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.AssemblyInfo.cs
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CoreCompileInputs.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.csproj.CopyComplete
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/refint/ExampleCSV.dll
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.pdb
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ExampleCSV.genruntimeconfig.cache
+/Users/arkadiuszspiewla/Desktop/CSV Test 2/ExampleCSV/obj/Debug/net7.0/ref/ExampleCSV.dll

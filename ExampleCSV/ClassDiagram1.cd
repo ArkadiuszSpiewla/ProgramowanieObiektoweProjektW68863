@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExampleCSV.CSVMenager">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAADABAAIABAAABAAAAAAAACAAAgAAAAABAAA=</HashCode>
+      <FileName>CSVMenager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Kursy">
+    <Position X="19" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAA=</HashCode>
+      <FileName>Kursy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Nauczyciel">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Nauczyciel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Oceny">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Oceny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Person">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Przerwy">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Przerwy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Student">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.UkrywanieHasla">
+    <Position X="17.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>UkrywanieHasla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Uwagi">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Uwagi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCSV.Wyswietlanie">
+    <Position X="15.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAgBBAAAAAE=</HashCode>
+      <FileName>Wyswietlanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSVMenagerHelpers">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAEgBAAEAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CSVMenagerHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
